@@ -19,7 +19,7 @@ Currently, I am deep-diving into the **JVM ecosystem**, focusing on mastering **
 
 ## Skills & Technologies
 
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin,spring,hibernate,postgres,mysql,mongodb,docker,kubernetes,linux,maven,gradle,php,angular)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,php,spring,angular,hibernate,postgres,mysql,mongodb,docker,kubernetes,linux,maven,gradle)](https://skillicons.dev)
 
 ## GitHub Stats
 
