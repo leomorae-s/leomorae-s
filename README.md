@@ -1,16 +1,34 @@
-## Hi there 👋
+## ASCII Art
 
-<!--
-**leomorae-s/leomorae-s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```
+  _                                                     
+ | | ___  ___  _ __ ___   ___  _ __ __ _  ___       ___ 
+ | |/ _ \/ _ \| '_ ` _ \ / _ \| '__/ _` |/ _ \_____/ __|
+ | |  __/ (_) | | | | | | (_) | | | (_| |  __/_____\__ \
+ |_|\___|\___/|_| |_| |_|\___/|_|  \__,_|\___|     |___/
+                                                        
+```
 
-Here are some ideas to get you started:
+## Hello!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm Leo, a Software Engineer passionate about the art and science of building fine software.
+
+## About Me
+
+Currently, I am deep-diving into the **JVM ecosystem**, focusing on mastering **Java** with plans to further specialize in Kotlin. Beyond the mainstream, I am a programming language enthusiast who loves exploring niche and 'underground' languages to understand the architectural trade-offs and paradigms that set them apart.
+
+## Skills & Technologies
+
+java,kotlin,php,spring,angular,gradle,maven,postgres,mysql,mongodb,docker,kubernetes,linux
+
+## GitHub Stats
+
+🌟 **Public Repositories:** 9
+👥 **Followers:** 8
+🔗 **Following:** 5
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=leomorae-s&show_icons=true&theme=radical)
+
+## Connect with Me
+
+{}
